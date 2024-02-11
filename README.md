@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrissichrist
+- 👋 Hi, I’m @chrissichrist ... and i cant stand emojis
 
 - 🌱 I’m currently learning ... to gitHub
 - 💞️ I’m looking to collaborate on ...
