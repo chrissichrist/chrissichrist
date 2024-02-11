@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrissichrist ... and i hate emojis
+👋 hello world ... and i hate emojis
 
 - 🌱 I’m currently learning ... to gitHub
 - 💞️ I’m looking to collaborate on ...
