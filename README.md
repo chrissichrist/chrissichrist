@@ -1,10 +1,7 @@
 👋 hello world ... and i hate emojis
-
-- 🌱 I’m currently learning ... to gitHub
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... gitHub
 - 📫 How to reach me ...
 at work
-- ⚡ Fun fact: ...
 
 LOL
 
